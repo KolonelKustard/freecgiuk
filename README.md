@@ -1,4 +1,5 @@
-freecgiuk
-=========
+Free CGI UK
+===========
 
-Free CGI-UK
+An old university project
+
